@@ -4,7 +4,7 @@
   "description": "Git branch manager with conflict detection and merge branch automation",
   "type": "module",
   "bin": {
-    "gitflow-branch-manager": "./bin/gitflow-branch-manager.js"
+    "gbranch": "./bin/gbranch.js"
   },
   "files": [
     "bin",
