@@ -1,10 +1,10 @@
 {
-  "name": "gbranch",
+  "name": "gitflow-branch-manager",
   "version": "1.0.0",
   "description": "Git branch manager with conflict detection and merge branch automation",
   "type": "module",
   "bin": {
-    "gbranch": "./bin/gbranch.js"
+    "gitflow-branch-manager": "./bin/gitflow-branch-manager.js"
   },
   "files": [
     "bin",
