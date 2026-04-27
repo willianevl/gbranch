@@ -1,0 +1,21 @@
+{
+  "name": "gbranch",
+  "version": "1.0.0",
+  "description": "Git branch manager with conflict detection and merge branch automation",
+  "type": "module",
+  "bin": {
+    "gbranch": "./bin/gbranch.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0"
+  },
+  "license": "MIT"
+}
