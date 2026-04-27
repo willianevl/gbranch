@@ -1,6 +1,6 @@
 {
   "name": "gitflow-branch-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Git branch manager with conflict detection and merge branch automation",
   "type": "module",
   "bin": {
@@ -17,5 +17,11 @@
     "chalk": "^5.3.0",
     "commander": "^12.1.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willianevl/gbranch.git"
+  },
+  "homepage": "https://github.com/willianevl/gbranch#readme",
+  "bugs": "https://github.com/willianevl/gbranch/issues",
   "license": "MIT"
 }
